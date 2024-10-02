@@ -11,7 +11,7 @@
 import { Provider, LikeButton } from "@lyket/react";
 
 <Provider
-  apiKey="acc0dbccce8e557db5ebbe6d605aaa"
+  apiKey="pt_762578bb9c5fba2e90b9f936e9f8cc"
   theme={{
     colors: {
       background: "#b8fff3",
